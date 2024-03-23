@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1711115392 source:c:\users\my msi\downloads\codec++\.codeblock\menugame\main.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+	<conio.h>
+	<ctime>
+	"windows.h"
+
